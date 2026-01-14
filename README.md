@@ -1,6 +1,32 @@
 <!--
   README - GitHub Profile: @rochadelon
 -->
+## 🚀 Projetos em destaque
+
+> Foco em soluções reais, bem documentadas e com potencial de uso no dia a dia.
+
+### 🎯 Gestão de estudos & produtividade
+
+| Projeto | Tecnologias | Descrição |
+| ------ | ----------- | --------- |
+| [`ciclo_principal_app-ciclo_de_estudos`](https://github.com/rochadelon/ciclo_principal_app-ciclo_de_estudos) | TypeScript · Node.js · Web | Aplicação para gestão de ciclos de estudo que combina técnicas de Pomodoro, espaçamento e revisão inteligente. |
+| [`super-productivity-mcp`](https://github.com/rochadelon/super-productivity-mcp) | TypeScript | Ferramentas e automações para potencializar o uso do Super Productivity e organizar o fluxo de tarefas. |
+
+### 🧠 Machine Learning & visão computacional
+
+| Projeto | Tecnologias | Descrição |
+| ------ | ----------- | --------- |
+| `MLSegmentacaodeVasosdeRetinaAtlantic` | Python · PyTorch · OpenCV | Segmentação de vasos sanguíneos em imagens de retina, com foco em aplicações médicas e auxílio diagnóstico. |
+| `Project-Team-01-Samsung-Innovation-Campus-2025` | Python · ML · Backend | Projeto de inovação desenvolvido no Samsung Innovation Campus, integrando modelos de ML com uma API backend. |
+
+### 🌐 Extensões & automação
+
+| Projeto | Tecnologias | Descrição |
+| ------ | ----------- | --------- |
+| [`PTMFast`](https://github.com/rochadelon/PTMFast) | HTML · JS · Browser Extension | Extensão para Google Chrome que detecta automaticamente PDFs em páginas web e agiliza o fluxo de leitura e download. |
+
+> ⭐ Sempre que possível, os repositórios contam com: README detalhado, exemplos de uso, instruções de setup e roadmap.
+
 
 <h1 align="center">Alan Delon Sousa Rocha</h1>
 
@@ -112,33 +138,6 @@ Sempre buscando escrever código **legível**, **testável** e **orientado a res
   projetos de <b>produtividade</b>, <b>data science</b> e <b>backend</b>.
 </p>
 
----
-
-## 🚀 Projetos em destaque
-
-> Foco em soluções reais, bem documentadas e com potencial de uso no dia a dia.
-
-### 🎯 Gestão de estudos & produtividade
-
-| Projeto | Tecnologias | Descrição |
-| ------ | ----------- | --------- |
-| [`ciclo_principal_app-ciclo_de_estudos`](https://github.com/rochadelon/ciclo_principal_app-ciclo_de_estudos) | TypeScript · Node.js · Web | Aplicação para gestão de ciclos de estudo que combina técnicas de Pomodoro, espaçamento e revisão inteligente. |
-| [`super-productivity-mcp`](https://github.com/rochadelon/super-productivity-mcp) | TypeScript | Ferramentas e automações para potencializar o uso do Super Productivity e organizar o fluxo de tarefas. |
-
-### 🧠 Machine Learning & visão computacional
-
-| Projeto | Tecnologias | Descrição |
-| ------ | ----------- | --------- |
-| `MLSegmentacaodeVasosdeRetinaAtlantic` | Python · PyTorch · OpenCV | Segmentação de vasos sanguíneos em imagens de retina, com foco em aplicações médicas e auxílio diagnóstico. |
-| `Project-Team-01-Samsung-Innovation-Campus-2025` | Python · ML · Backend | Projeto de inovação desenvolvido no Samsung Innovation Campus, integrando modelos de ML com uma API backend. |
-
-### 🌐 Extensões & automação
-
-| Projeto | Tecnologias | Descrição |
-| ------ | ----------- | --------- |
-| [`PTMFast`](https://github.com/rochadelon/PTMFast) | HTML · JS · Browser Extension | Extensão para Google Chrome que detecta automaticamente PDFs em páginas web e agiliza o fluxo de leitura e download. |
-
-> ⭐ Sempre que possível, os repositórios contam com: README detalhado, exemplos de uso, instruções de setup e roadmap.
 
 ---
 

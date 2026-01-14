@@ -104,24 +104,6 @@ Sempre buscando escrever código **legível**, **testável** e **orientado a res
 
 ---
 
-## 📊 Estatísticas de atividade
-
-<div align="center">
-
-<!-- Card geral de stats -->
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=rochadelon&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=fb8c00&icon_color=fdd835"
-/>
-
-<!-- Streak de contribuições -->
-<img 
-  src="https://streak-stats.demolab.com/?user=rochadelon&theme=radical&hide_border=true&background=0d1117"
-/>
-
-</div>
-
----
-
 ## 📈 Linguagens & Produtividade
 
 <div align="center">

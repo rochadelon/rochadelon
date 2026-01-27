@@ -3,7 +3,7 @@
   Atualizado: Janeiro 2026
   Versão: 2.0 - Estrutura profissional com mapa de conteúdo e interconexões
 -->
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X11T2A1D)
 <h1 align="center">Alan Delon Sousa Rocha</h1>
 
 <p align="center">

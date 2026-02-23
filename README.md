@@ -43,6 +43,45 @@ Este README está organizado para facilitar navegação e descoberta:
 | **[📫 Contato](#-contato)** | Redes e comunicação | ↔️ Todas as seções |
 
 ---
+## 🚀 Projetos em Destaque
+
+### 🐶 **Aplicações Desktop & Automação**
+
+| Projeto | Stack | Status | Descrição |
+|---------|-------|--------|----------|
+| **[Peter Palm](https://github.com/rochadelon/peter-palm)** | Electron, Python, FastAPI, PyTorch | 🟢 Ativo | IA copiloto de desktop local-first com memória contextual (destaque principal) |
+| **[PTMFast](https://github.com/rochadelon/PTMFast)** | JS, Browser Extension | 🟢 Ativo | Extensão Chrome para detecção automática de PDFs e download inteligente |
+
+### 📚 **Gestão de Estudos & Produtividade**
+
+| Projeto | Stack | Status | Descrição |
+|---------|-------|--------|----------|
+| **[ciclo_principal_app](https://github.com/rochadelon/ciclo_principal_app-ciclo_de_estudos)** | TypeScript, Node.js | 🟢 Ativo | Gestão de ciclos de estudo com Pomodoro, espaçamento e revisão inteligente |
+| **[super-productivity-mcp](https://github.com/rochadelon/super-productivity-mcp)** | TypeScript, MCP | 🟢 Ativo | Ferramentas e automações para Super Productivity |
+
+### 🧠 **Machine Learning & Visão Computacional**
+
+| Projeto | Stack | Status | Descrição |
+|---------|-------|--------|----------|
+| **[MLSegmentacaoVasosRetina](https://github.com/rochadelon/MLSegmentacaodeVasosdeRetinaAtlantic)** | Python, PyTorch, OpenCV | 🟡 Concluído | Segmentação de vasos sanguíneos em imagens de retina - diagnóstico médico |
+| **[Samsung Innovation Campus 2025](https://github.com/rochadelon/Project-Team-01-Samsung-Innovation-Campus-2025)** | Python, ML, Backend | 🟡 Concluído | Projeto de inovação com modelos ML integrados a API backend |
+
+### 🌐 **Extensões & Integrações**
+
+| Projeto | Stack | Status | Descrição |
+|---------|-------|--------|----------|
+| **[PTMFast](https://github.com/rochadelon/PTMFast)** | HTML, JS | 🟢 Ativo | Chrome extension para otimizar fluxo de PDFs |
+
+#### 📌 Status dos Projetos:
+- 🟢 **Ativo**: Em desenvolvimento ativo ou manutenção constante
+- 🟡 **Concluído**: Funcional, documentado, pronto para uso
+- ⚪ **Arquivado**: Mantido para referência histórica
+
+> ⭐ **Padrão de Qualidade**: Todos os repositórios contam com README detalhado, exemplos de uso, instruções de setup, licenças e roadmap claro.
+
+🔗 **Conexões**: Tecnologias utilizadas detalhadas em [Stack Tecnológico](#-stack--ferramentas); Estudos contínuos em [Estudos](#-estudos--conteúdo)
+
+---
 
 ## 🎯 Projeto em Destaque
 
@@ -145,46 +184,6 @@ Desen volver a carreira em **engenharia de IA/ML**, com foco em sistemas escalá
 | **Frontend Moderno** | React, TypeScript, responsividade | ⭐⭐⭐ |
 
 🔗 **Conexões**: Veja aplicações práticas em [Projetos](#-projetos-em-destaque) e aprendizados em [Estudos](#-estudos--conteúdo)
-
----
-
-## 🚀 Projetos em Destaque
-
-### 🐶 **Aplicações Desktop & Automação**
-
-| Projeto | Stack | Status | Descrição |
-|---------|-------|--------|----------|
-| **[Peter Palm](https://github.com/rochadelon/peter-palm)** | Electron, Python, FastAPI, PyTorch | 🟢 Ativo | IA copiloto de desktop local-first com memória contextual (destaque principal) |
-| **[PTMFast](https://github.com/rochadelon/PTMFast)** | JS, Browser Extension | 🟢 Ativo | Extensão Chrome para detecção automática de PDFs e download inteligente |
-
-### 📚 **Gestão de Estudos & Produtividade**
-
-| Projeto | Stack | Status | Descrição |
-|---------|-------|--------|----------|
-| **[ciclo_principal_app](https://github.com/rochadelon/ciclo_principal_app-ciclo_de_estudos)** | TypeScript, Node.js | 🟢 Ativo | Gestão de ciclos de estudo com Pomodoro, espaçamento e revisão inteligente |
-| **[super-productivity-mcp](https://github.com/rochadelon/super-productivity-mcp)** | TypeScript, MCP | 🟢 Ativo | Ferramentas e automações para Super Productivity |
-
-### 🧠 **Machine Learning & Visão Computacional**
-
-| Projeto | Stack | Status | Descrição |
-|---------|-------|--------|----------|
-| **[MLSegmentacaoVasosRetina](https://github.com/rochadelon/MLSegmentacaodeVasosdeRetinaAtlantic)** | Python, PyTorch, OpenCV | 🟡 Concluído | Segmentação de vasos sanguíneos em imagens de retina - diagnóstico médico |
-| **[Samsung Innovation Campus 2025](https://github.com/rochadelon/Project-Team-01-Samsung-Innovation-Campus-2025)** | Python, ML, Backend | 🟡 Concluído | Projeto de inovação com modelos ML integrados a API backend |
-
-### 🌐 **Extensões & Integrações**
-
-| Projeto | Stack | Status | Descrição |
-|---------|-------|--------|----------|
-| **[PTMFast](https://github.com/rochadelon/PTMFast)** | HTML, JS | 🟢 Ativo | Chrome extension para otimizar fluxo de PDFs |
-
-#### 📌 Status dos Projetos:
-- 🟢 **Ativo**: Em desenvolvimento ativo ou manutenção constante
-- 🟡 **Concluído**: Funcional, documentado, pronto para uso
-- ⚪ **Arquivado**: Mantido para referência histórica
-
-> ⭐ **Padrão de Qualidade**: Todos os repositórios contam com README detalhado, exemplos de uso, instruções de setup, licenças e roadmap claro.
-
-🔗 **Conexões**: Tecnologias utilizadas detalhadas em [Stack Tecnológico](#-stack--ferramentas); Estudos contínuos em [Estudos](#-estudos--conteúdo)
 
 ---
 

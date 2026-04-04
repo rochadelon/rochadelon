@@ -57,9 +57,6 @@ Sou **Full-Stack Developer** com foco em:
 - ✅ Construção de portfólios limpos, organizados e prontos para recrutadores;
 - ✅ Código **legível**, **testável** e **orientado a resultados**.
 
-#### 🎯 Objetivo atual:
-Desen volver a carreira em **engenharia de IA/ML**, com foco em sistemas escaláveis e aplicações práticas. Atualmente em busca de **oportunidades de internship e estágio** em empresas inovadoras.
-
 🔗 **Conexões**: Veja minhas tecnologias em [Stack](#-stack--ferramentas) e projetos concretos em [Projetos](#-projetos-em-destaque)
 
 ---

@@ -41,6 +41,26 @@ Este README está organizado para facilitar navegação e descoberta:
 | **[📊 Atividade](#-atividade--estatísticas)** | Métricas de desenvolvimento | ↔️ [Projetos](#-projetos-em-destaque) |
 | **[📚 Estudos](#-estudos--conteúdo)** | Aprendizado contínuo | ↔️ [Stack](#-stack--ferramentas), [Projetos](#-projetos-em-destaque) |
 | **[📫 Contato](#-contato)** | Redes e comunicação | ↔️ Todas as seções |
+---
+## 👨‍💻 Sobre mim
+
+Sou **Full-Stack Developer** com foco em:
+
+- 🏗️ Desenvolvimento de aplicações web completas (frontend + backend);
+- 🧠 Modelos de **Machine Learning** aplicados a problemas reais;
+- ⚙️ **Automação de processos** e produtividade;
+- ☁️ Cloud computing e DevOps (AWS, Google Cloud).
+
+#### Atuação:
+- ✅ Projetos acadêmicos e de inovação (Samsung Innovation Campus, ANEEL);
+- ✅ Criação de ferramentas para estudo, produtividade e análise de dados;
+- ✅ Construção de portfólios limpos, organizados e prontos para recrutadores;
+- ✅ Código **legível**, **testável** e **orientado a resultados**.
+
+#### 🎯 Objetivo atual:
+Desen volver a carreira em **engenharia de IA/ML**, com foco em sistemas escaláveis e aplicações práticas. Atualmente em busca de **oportunidades de internship e estágio** em empresas inovadoras.
+
+🔗 **Conexões**: Veja minhas tecnologias em [Stack](#-stack--ferramentas) e projetos concretos em [Projetos](#-projetos-em-destaque)
 
 ---
 ## 🚀 Projetos em Destaque
@@ -116,28 +136,6 @@ Este README está organizado para facilitar navegação e descoberta:
 - **IA**: Whisper, Doctr (OCR), Deepgram (STT)
 
 🔗 **Conexões**: Veja tecnologias similares em [Stack Tecnológico](#-stack--ferramentas) e projetos relacionados em [Machine Learning & Visão Computacional](#-machine-learning--visão-computacional)
-
----
-
-## 👨‍💻 Sobre mim
-
-Sou **Full-Stack Developer** com foco em:
-
-- 🏗️ Desenvolvimento de aplicações web completas (frontend + backend);
-- 🧠 Modelos de **Machine Learning** aplicados a problemas reais;
-- ⚙️ **Automação de processos** e produtividade;
-- ☁️ Cloud computing e DevOps (AWS, Google Cloud).
-
-#### Atuação:
-- ✅ Projetos acadêmicos e de inovação (Samsung Innovation Campus, ANEEL);
-- ✅ Criação de ferramentas para estudo, produtividade e análise de dados;
-- ✅ Construção de portfólios limpos, organizados e prontos para recrutadores;
-- ✅ Código **legível**, **testável** e **orientado a resultados**.
-
-#### 🎯 Objetivo atual:
-Desen volver a carreira em **engenharia de IA/ML**, com foco em sistemas escaláveis e aplicações práticas. Atualmente em busca de **oportunidades de internship e estágio** em empresas inovadoras.
-
-🔗 **Conexões**: Veja minhas tecnologias em [Stack](#-stack--ferramentas) e projetos concretos em [Projetos](#-projetos-em-destaque)
 
 ---
 

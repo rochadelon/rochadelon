@@ -7,7 +7,7 @@
 <h1 align="center">Alan Delon Sousa Rocha</h1>
 
 <p align="center">
-  <b>Full-Stack Developer</b> · <b>Machine Learning</b> · <b>Process Automation</b><br/>
+  <b>Full-Stack Developer</b> · Data Analitycs · <b>IA</b><br/>
   Desenvolvendo soluções <b>práticas</b>, <b>escaláveis</b> e voltadas para impacto real.
 </p>
 

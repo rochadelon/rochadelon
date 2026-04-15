@@ -179,15 +179,6 @@ Sou **Full-Stack Developer** com foco em:
 
 </div>
 
-#### 📈 Métricas:
-- **Meta pessoal**: Manter fluxo constante de contribuições semanais
-- **Foco**: Alternar entre projetos de **produtividade**, **data science** e **backend**
-- **Contribuições**: Quantidade consistente de commits em repositórios próprios e open-source
-
-🔗 **Conexões**: Atividades vinculadas aos [Projetos](#-projetos-em-destaque); Metodologia em [Estudos](#-estudos--conteúdo)
-
----
-
 ## 📚 Estudos & Conteúdo
 
 ### 🎯 Foco Atual de Aprendizado

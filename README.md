@@ -8,7 +8,6 @@
 
 <p align="center">
   <b>Full-Stack Developer</b> · <b>Data Analitycs</b> · <b>IA</b><br/>
-  Desenvolvendo soluções <b>práticas</b>, <b>escaláveis</b> e voltadas para impacto real.
 </p>
 
 <p align="center">
@@ -28,20 +27,6 @@
 
 ---
 
-## 📋 Mapa de Conteúdo
-
-Este README está organizado para facilitar navegação e descoberta:
-
-| Seção | Conteúdo | Interconexões |
-|-------|----------|----------------|
-| **[🎯 Projeto Destaque](#-projeto-em-destaque)** | Peter Palm - IA Desktop Local-First | ↔️ [Stack Tecnológico](#-stack--ferramentas) |
-| **[👨‍💻 Sobre](#-sobre-mim)** | Visão geral profissional | ↔️ [Projetos](#-projetos-em-destaque) |
-| **[🛠 Stack](#-stack--ferramentas)** | Tecnologias dominadas | ↔️ [Projetos](#-projetos-em-destaque), [Estudos](#-estudos--conteúdo) |
-| **[🚀 Projetos](#-projetos-em-destaque)** | Portfolio organizado por categoria | ↔️ [Stack](#-stack--ferramentas), [Estudos](#-estudos--conteúdo) |
-| **[📊 Atividade](#-atividade--estatísticas)** | Métricas de desenvolvimento | ↔️ [Projetos](#-projetos-em-destaque) |
-| **[📚 Estudos](#-estudos--conteúdo)** | Aprendizado contínuo | ↔️ [Stack](#-stack--ferramentas), [Projetos](#-projetos-em-destaque) |
-| **[📫 Contato](#-contato)** | Redes e comunicação | ↔️ Todas as seções |
----
 ## 👨‍💻 Sobre mim
 
 Sou **Full-Stack Developer** com foco em:
@@ -261,8 +246,8 @@ Sou **Full-Stack Developer** com foco em:
 
 #### 🤝 Aberto para:
 
-- 💼 **Oportunidades de Internship/Estágio** em engenharia de IA/ML
-- 🔀 **Colaborações** em projetos de produtividade, data science e desenvolvimento full-stack
+- 💼 **Oportunidades de Internship/Estágio**
+- 🔀 **Colaborações** em data science e desenvolvimento full-stack
 - 🧠 **Trocas de conhecimento** com a comunidade tech
 - 📚 **Networking** com desenvolvedores e pesquisadores
 

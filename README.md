@@ -1,7 +1,3 @@
-Título: README — Perfil Profissional (Infraestrutura)
-
-Aqui está uma versão do seu README adaptada para um perfil focado em Infraestrutura (DevOps / Cloud / SRE). Mantive seu estilo, seções principais e muitos dos projetos/tecnologias relevantes, mas reformulei descrições, stack e prioridades para destacar experiência em infraestrutura, Azure e práticas de SRE.
-
 ***
 
 # Alan Delon Sousa Rocha
@@ -99,5 +95,3 @@ Atualmente estudando e praticando:
 Última atualização: Junho 2026 — Fortaleza, Brasil
 
 --- 
-
-Quer que eu gere o README pronto em Markdown (pronto para colar no GitHub) com links e badges atualizados? Também posso adaptar o tom para júnior, pleno ou sênior — qual prefere?
